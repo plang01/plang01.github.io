@@ -139,7 +139,7 @@ table td{
 /* Projects Page*/
 .container4{
     display:flex;
-     background-image: linear-gradient(to right,cyan, blue, purple); */
+     background-image: linear-gradient(to right,cyan, blue, purple);
     overflow-x: auto;
     height: 100vh;
     /* padding-top:100%; */
