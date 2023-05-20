@@ -35,6 +35,7 @@ nav li a img{
     vertical-align:bottom;
     max-width:100%;
     width:auto;
+    background:red;
 } 
 
 nav a, a:visited{
