@@ -52,6 +52,7 @@ nav a, a:visited{
     justify-content: center;
     background-image: linear-gradient(to top right,blue, purple, blue);
     padding-top:100px;
+    height:100vh;
 }
 
 .Homepage{
@@ -122,6 +123,7 @@ table{
     background-image: linear-gradient(to right,cyan, blue, purple);
     padding-top: 30px;
     font-size:30px;
+    height: 100vh;
 }
 
 table th{
@@ -137,9 +139,10 @@ table td{
 /* Projects Page*/
 .container4{
     display:flex;
-    background-image: linear-gradient(to right,cyan, blue, purple);
+     background-image: linear-gradient(to right,cyan, blue, purple); */
     overflow-x: auto;
-    /* flex-grow:1; */
+    height: 100vh;
+    /* padding-top:100%; */
 }
 
 .container4 h2{
