@@ -139,6 +139,7 @@ table td{
     display:flex;
     background-image: linear-gradient(to right,cyan, blue, purple);
     overflow-x: auto;
+    /* flex-grow:1; */
 }
 
 .container4 h2{
